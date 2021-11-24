@@ -154,54 +154,22 @@
   
   "data": [
     {
-      "id": 1,
-      "title": "Automotive",
-      "data":[]
-    },
-    {
-      "id": 2,
-      "title": "Education",
-      "data":[]
-    },
-    {
-      "id": 3,
-      "title": "Fashion",
-      "data":[]
-    },
-    {
-      "id": 4,
-      "title": "444444",
-      "data":[]
-    },
-    {
       "id": 5,
-      "title": "55555",
-      "data":[]
+      "name": "food",
+      "created_at": "2021-11-20T08:56:49+07:00",
+      "updated_at": "2021-11-20T08:56:49+07:00"
     },
     {
-      "id": 6,
-      "title": "66666",
-      "data":[]
+      "id": 15,
+      "name": "cosmetic",
+      "created_at": "2021-11-20T08:57:26+07:00",
+      "updated_at": "2021-11-20T08:57:26+07:00"
     },
     {
-      "id": 7,
-      "title": "77777",
-      "data":[]
-    },
-    {
-      "id": 8,
-      "title": "888888",
-      "data":[]
-    },
-    {
-      "id": 9,
-      "title": "999999",
-      "data":[]
-    },
-    {
-      "id": 10,
-      "title": "100000",
-      "data":[]
+      "id": 25,
+      "name": "education",
+      "created_at": "2021-11-20T08:57:42+07:00",
+      "updated_at": "2021-11-20T08:57:42+07:00"
     }
   ]
 
